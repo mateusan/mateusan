@@ -1,7 +1,7 @@
 # SysAdmin & Software Engineer in DonDominio  👋
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/mateu_san.svg?style=social&label=Follow%20%40mateu_san)](https://twitter.com/mateu_san)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/mateusan/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusan/)
 
 - 🔭 Estoy trabajando en [DonDominio](https://www.dondominio.com/) 
 - 👯 Colaborando con DonDominio en GitHub (https://github.com/dondominio/)
