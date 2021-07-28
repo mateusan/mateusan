@@ -1,5 +1,7 @@
 # SysAdmin & Software Engineer in DonDominio  👋
 
+[![HitCount](https://views.whatilearened.today/views/github/coderjojo/creative-profile-readme.svg)](https://github.com/coderjojo/creative-profile-readme)
+
 - 🔭 Estoy trabajando en [DonDominio](https://www.dondominio.com/) 
 - 👯 Colaborando con DonDominio en GitHub (https://github.com/dondominio/)
 
