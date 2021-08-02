@@ -2,6 +2,7 @@
 
 - 🔭 Estoy trabajando en [DonDominio](https://www.dondominio.com/) 
 - 👯 Colaborando con DonDominio en GitHub (https://github.com/dondominio/)
+- 😀 Prefiero el teclado al ratón 
 
 ### Social
 
